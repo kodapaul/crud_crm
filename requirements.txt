@@ -1,0 +1,10 @@
+asgiref==3.8.1
+Django==5.0.4
+mysql==0.0.3
+mysql-connector==2.2.9
+mysql-connector-python==8.3.0
+mysqlclient==2.2.4
+PyMySQL==1.1.0
+setuptools==69.2.0
+sqlparse==0.4.4
+wheel==0.43.0
