@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'CRUDDB',
         'USER': 'root',
-        'PASSWORD': 'eagle2021',
+        'PASSWORD': 'rootdb',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
