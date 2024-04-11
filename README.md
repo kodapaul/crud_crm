@@ -10,8 +10,8 @@ Created this project as a training for Python Django
 ## Step-by-step guide to run the project
 
 - Make sure you have a running mysql community server, everything else is already setup in the requirement.txt to make sure that mysql is running on django 5
-- then run in a virtual python env this `pip install -r /path/to/requirements.txt`
-- run `django manage.py startapp website`
+-   Make sure that python virtual environment is running
+- run `pip install -r /path/to/requirements.txt`
 - change settings.py sqllite into this
 ```
 DATABASES = {
